@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "800433017627",
+    "project_id": "wppb-a0ccf",
+    "storage_bucket": "wppb-a0ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800433017627:android:d5f8f559fd77b47fff79be",
+        "android_client_info": {
+          "package_name": "com.example.wppb_laporan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800433017627-6c39gh7vn04o2ij49jfagr22vihgosn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38MVuHl4gwzTd944xyJj4h_9_acYzPO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800433017627-6c39gh7vn04o2ij49jfagr22vihgosn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800433017627:android:43c0d16cb0d3e0efff79be",
+        "android_client_info": {
+          "package_name": "com.example.wppb_laporan_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800433017627-6c39gh7vn04o2ij49jfagr22vihgosn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38MVuHl4gwzTd944xyJj4h_9_acYzPO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800433017627-6c39gh7vn04o2ij49jfagr22vihgosn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
